@@ -22,7 +22,7 @@ connectionToDatabase().then(()=>{
 
 }).catch((err)=>{
 
-    console.log('db connection  error')
+    console.log('db connection  errorr')
     process.exit(0);
 })
 
